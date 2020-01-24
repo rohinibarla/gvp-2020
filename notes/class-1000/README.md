@@ -32,6 +32,12 @@ In WhatsApp when you send a message you see box, single tick, double tick, doubl
 
 ---
 
+Database: Simplified view 
+A system with storage and with ability
++ to write(save) data and 
++ to do fast queries on the saved data.
+
+---
 What type of software do you want?  
 List of some ideas.
 + Glasses with zoom-in and zoom-out capability.
