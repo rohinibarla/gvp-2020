@@ -54,6 +54,7 @@ Note: Choose the Free Plan in GitHub.
 ---
 
 Check these:
-+ [How websites work](http://nilclass.com/courses/how-websites-work/)?
-+ [Self-learning framework](http://plusjade.com/posts/a-framework-for-self-learning/).
 + [Remote jobs](https://remote.com/search).
++ [Self-learning framework](http://plusjade.com/posts/a-framework-for-self-learning/).
++ [How websites work](http://nilclass.com/courses/how-websites-work/)? (Note: Check on desktop or laptop, not on mobile.) 
+
