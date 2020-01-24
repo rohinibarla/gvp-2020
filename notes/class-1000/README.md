@@ -8,7 +8,9 @@ What do you want to do?
 Like what job or career or project or starting your own company.  
 
 Remote jobs are another option available now. Discussed companies like [basecamp](https://basecamp.com/about/jobs) which pays the same rate, independent of location, standardized on the San Francisco market. You can work from your Village or Home town and get paid US salary. Things are changing...  
-
+  
+[FAANG](https://en.wikipedia.org/wiki/Facebook,_Apple,_Amazon,_Netflix_and_Google) companies.  
+  
 ---
 
 Death is inevitable. Nenu vakaroju pothanu. Naaku 100 years bathakalani undhi, kaani *nenu edho vaka roju pothanu*. When you are aware of your death (mortal nature), you live life the best way you like to live.
