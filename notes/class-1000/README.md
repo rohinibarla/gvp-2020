@@ -9,7 +9,11 @@ Like what job or career or project or starting your own company.
 
 Remote jobs are another option available now. Discussed companies like [basecamp](https://basecamp.com/about/jobs) which pays the same rate, independent of location, standardized on the San Francisco market. You can work from your Village or Home town and get paid US salary. Things are changing...  
   
-[FAANG](https://en.wikipedia.org/wiki/Facebook,_Apple,_Amazon,_Netflix_and_Google) companies.  
+FAANG - Facebook, Amazon, Apple, Netflix, Google.    
+    
+How to become a developer in FAANG companies?  
+
+You need to have clear understanding of system internals and how to build quality software. Algorithms and Data structures, when you are good in them, you can go throught the interview with ease.  
   
 ---
 
