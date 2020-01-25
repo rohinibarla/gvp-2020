@@ -65,4 +65,4 @@ Check these:
 + [Remote jobs](https://remote.com/search).
 + [Self-learning framework](http://plusjade.com/posts/a-framework-for-self-learning/).
 + [How websites work](http://nilclass.com/courses/how-websites-work/)? (Note: Check on desktop or laptop, not on mobile.) 
-
++ Why death is our [greatest teacher](https://medium.com/do-book-company/why-death-is-our-greatest-teacher-f05c31021d12)?
