@@ -1,3 +1,4 @@
 ### Resources
 
-+ [Git and GitHub](submit-ideas).
++ [How to submit your ideas?](submit-ideas).
++ [Git and GitHub](git-github).
