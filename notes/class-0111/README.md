@@ -4,6 +4,10 @@ Started with the invocation of [Sahanavavathu](https://youtu.be/OUu1uxzvkgc?t=48
 
 ---
 
+How to setup and configure git?
+How to create your own repository?
+Check example commands [here](gitsteps.txt).  
+  
 How to create a personal website using Github Pages.
 
 ---
@@ -14,7 +18,9 @@ Tasks:
 + Draw the UX & UI of the app and take photo and add it to your repo.
 + Create a new programming language.
 
+---
 
+System internals.
 
 
 

@@ -1,0 +1,57 @@
+1. The check the current working directory using
+> pwd
+
+2. Create your directory and change to it
+> mkdir curious
+> cd curious
+
+3. Initialise the git repository using
+> git init
+
+4. Configure your name and email using commands
+> git config --global user.name “write name here”
+> git config --global user.email “your email id”
+
+5. To check if done properly; use these commands
+> git config --global user.name 
+> git config --global user.email
+
+6. Check status
+> git status
+
+7. create an empty c file
+> touch sample.c
+
+8. check the file is create
+> ls
+> ls -l
+
+9. add the file
+> git add sample.c
+
+10. check the status
+> git status
+
+11. commit the changes
+> git commit -m "my initial programs"
+
+12. check the status and log
+> git status
+> git log
+
+13. Create a repository in github
+
+14. add remote by coping the command and push
+    the code
+    git remote add origin <your repository path>
+
+    e.g: 
+    git remote add origin https://github.com/rohinibarla/csethops.git
+
+15. push the code
+    git push -u origin master
+
+
+
+
+
