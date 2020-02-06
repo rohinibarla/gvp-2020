@@ -10,8 +10,9 @@ How to create a personal website using Github Pages.
 
 Tasks:
 + Write about 3 remote work jobs.
++ Apply for 3 remote jobs.
 + Draw the UX & UI of the app and take photo and add it to your repo.
-
++ Create a new programming language.
 
 
 
