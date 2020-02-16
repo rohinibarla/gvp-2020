@@ -1,11 +1,9 @@
 ### git and GitHub
 
-Here are resources to get started with git and GitHub on windows machine.
+Here are some articles to get started with git and GitHub on windows machine.
 + [one](https://www.pluralsight.com/guides/using-git-and-github-on-windows)
 + [two](https://designskew.com/blog/how-to-use-git-on-windows/)
 + [three](https://initgeek.com/how-to-use-git-git-bash-and-github/)
 
-Install it on you machine. [Instructions](https://launchschool.com/books/git/read/preparations#installinggit).  
-  
 Best [book](https://launchschool.com/books/git/) to understand git and GitHub.  
   
