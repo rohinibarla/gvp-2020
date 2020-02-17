@@ -17,20 +17,20 @@ message:
 
 A sample of students who have have created the repo's and shared with me are:
 
-**V Ganesh, IT.**
+*V Ganesh, IT.*
 https://github.com/ganeshvasi/remote-jobs/blob/master/remote-jobs.md
 
-**Akshay, IT.**
+*Akshay, IT.*
 https://github.com/Akshay12016/Akshay
 
-**Sai Meghana, IT.**
+*Sai Meghana, IT.*
 https://yerramsettysaimeghana.github.io/remote-jobs/
 Also check here another nice repo: drum kit @ https://yerramsettysaimeghana.github.io/drum-kit/
 
 Hope these things inspire your to get started. 
 
 if (they can create) {
-   can't you create?
+   *can't you create?*
 }
 
 ---
