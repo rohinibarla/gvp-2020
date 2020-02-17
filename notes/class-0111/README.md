@@ -6,7 +6,7 @@ Started with the invocation of [Sahanavavathu](https://youtu.be/OUu1uxzvkgc?t=48
 
 How to setup and configure git?
 How to create your own repository?
-Check example commands [here](gitsteps.txt).  
+Check example commands [here](../../resources/gitsteps.txt).  
   
 How to create a personal website using Github Pages.
 
@@ -20,8 +20,7 @@ Tasks:
 
 ---
 
-System internals.
-
+System internals. 
 
 
 

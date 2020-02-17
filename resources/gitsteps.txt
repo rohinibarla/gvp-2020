@@ -2,8 +2,8 @@
 > pwd
 
 2. Create your directory and change to it
-> mkdir curious
-> cd curious
+> mkdir csethops
+> cd csethops
 
 3. Initialise the git repository using
 > git init
