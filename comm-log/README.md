@@ -17,10 +17,10 @@ message:
 
 Here are the list of projects, contribute to anyone that interests you.
 
-Articles for people to get started.
+Articles for people to get started.  
 https://github.com/gvp1923/git-and-github
 
-List of interactive tutorials to be done.
+List of interactive tutorials to be done.  
 https://github.com/gvp1923/nilclass
  
 ---
@@ -57,12 +57,12 @@ date:
 message:
 Good work done by
 
-*Mohit, IT-2*
-https://mohit-sanku.github.io/Remote-Jobs/mohit
-
-*Anusha*
-https://anusha8910.github.io/project/
-
+*Mohit, IT-2*  
+https://mohit-sanku.github.io/Remote-Jobs/mohit  
+  
+*Anusha*  
+https://anusha8910.github.io/project/  
+  
 ---
 
 date:
@@ -76,17 +76,17 @@ if (they can create) {
 }
 ```
 
-It's nice to see more and more students are creating the repos:
+It's nice to see more and more students are creating the repos:  
 [https://github.com/Karthik08-github/hello](https://github.com/Karthik08-github/hello)  
 [https://mvssgupta.github.io/](https://mvssgupta.github.io/)  
 [https://github.com/Phanindra02/](https://github.com/Phanindra02/)  
 [https://github.com/shanmukh328/](https://github.com/shanmukh328/)  
 [himabinduvsp.github.io](https://himabinduvsp.github.io/)  
   
-Mahitha even created the ideas file and wrote their ideas.
+Mahitha even created the ideas file and wrote their ideas.  
 [https://github.com/Mahitha3010/rep1/blob/master/ideas](https://github.com/Mahitha3010/rep1/blob/master/ideas)   
 
-Check this one from *Yaswanth*
+Check this one from *Yaswanth*   
 [https://yaswanthdrl.github.io/New-type-of-jobs/](https://yaswanthdrl.github.io/New-type-of-jobs/)  
 
 ---
