@@ -23,9 +23,57 @@ https://github.com/gvp1923/nilclass
 ---
 
 date:
+19/02/2020
+
 message:
-I asked you to write about your ideas in a github repo. Good to see these students have done it.
-Mahitha3010
+
+if (they can create) {
+   *can't you create?*
+}
+
+It's nice to see more and more students are creating the repos:
+https://github.com/Karthik08-github/hello
+https://mvssgupta.github.io/
+https://github.com/Phanindra02/
+https://github.com/shanmukh328/
+https://himabinduvsp.github.io/
+
+Mahitha even created the ideas file and wrote their ideas.
+https://github.com/Mahitha3010/rep1/blob/master/ideas
+
+Check this one from *Yaswanth*
+https://yaswanthdrl.github.io/New-type-of-jobs/
+
+---
+
+date:
+19/02/2020
+
+message:
+
+You can also create private repositories as well, where you can save important study materials.
+
+Once you are comfortable you can make it public
+
+> I think so we have to pay money for that sir?
+
+No not needed, you can create private repos for free
+
+---
+
+date:
+18/02/2020
+
+message:
+
+Few more people have done
+
+https://harsha-9010.github.io/
+
+https://mvssgupta.github.io/
+
+Reach out to Harsha if you need help.
+
 
 ---
 
