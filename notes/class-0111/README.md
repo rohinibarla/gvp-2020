@@ -32,4 +32,10 @@ You can as well [download](lecture-fundamental-of-computing.pdf) these slides.
 
 ---
 
+Discuss about different ways of brainstroming. Check more about [Six thinking hats](https://www.debono.com/six-thinking-hats-summary).
 
+---
+
+Closed with the invocation of Asathoma sadhgamaya...
+
+---
