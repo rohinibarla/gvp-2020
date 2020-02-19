@@ -1,8 +1,8 @@
-### Your team's website
+### Your team's portfolio website
 
-+ Each on the team create your personal website using GitHub pages.  
-+ Create your teams website and link to each of your individual websites.
++ Each on the team create your portfolio website using GitHub pages.  
++ Create your teams portfolio website and link to each of your individual websites.
 + Add a picture of your team.
-+ List all the project that your team has done.
++ Showcase all the project that your team has done.
 
 
