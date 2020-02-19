@@ -9,7 +9,8 @@ Started with the invocation of [Sahanavavathu](https://youtu.be/OUu1uxzvkgc?t=48
 + Summary of so far.
 + Github education package.
 + Parrots Training story retold.
-+ Tree questions of students, followed by open Q&A.
++ Fork the visual-presentation and experiment.
++ Three questions of students, followed by open Q&A.
 
 ---
 
@@ -34,6 +35,15 @@ Started with the invocation of [Sahanavavathu](https://youtu.be/OUu1uxzvkgc?t=48
 You can download 
 + the [complete](parrots-training-complete.pdf) story with Ravindranath Tagore's story or
 + just the [new story](parrots-training-retold.pdf)
+
+---
+
+#### Fork the visual-presentation and experiment.
+
+You can fork the template repo [here](https://github.com/gvp1923/visual-presentation) for visual presentation.  
+Try playing with it and experiment to bring your ideas to animate on the screen.  
+
+
 
 ---
 
