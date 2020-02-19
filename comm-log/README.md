@@ -48,14 +48,14 @@ message:
 In case you missed the earlier messages, here is the list of the messages sent to students so far:
 [https://rohinibarla.github.io/gvp-2020/comm-log/](https://rohinibarla.github.io/gvp-2020/comm-log/)
 
-This get's updated as new messages are sent to students.
+This get's updated as new messages are sent to students. *People who are not able to join the WhatsApp group, follow this link for updates*.
 
 ---
 date:
 19/02/2020
 
 message:
-Good work done by
+Good work done by these students, check them  
 
 *Mohit, IT-2*  
 https://mohit-sanku.github.io/Remote-Jobs/mohit  
@@ -63,6 +63,19 @@ https://mohit-sanku.github.io/Remote-Jobs/mohit
 *Anusha*  
 https://anusha8910.github.io/project/  
   
+*Vinay*  
+https://github.com/vinay-1729/programming_hub  
+
+*Gayathri*  
+https://bvsslgayathri.github.io/  
+
+*Ishitha*  
+https://ishithavarma.github.io/  
+
+*Aditya*  
+https://adityaadi11.github.io/rebels/  
+
+
 ---
 
 date:
