@@ -20,7 +20,16 @@ Tasks:
 
 ---
 
-System internals. 
+System internals. Here are the slides of the lecture on fundamental of computing.
 
+<object data="lecture-fundamental-of-computing.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="lecture-fundamental-of-computing.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="lecture-fundamental-of-computing.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+You can as well [download](lecture-fundamental-of-computing.pdf) these slides.  
+
+---
 
 
