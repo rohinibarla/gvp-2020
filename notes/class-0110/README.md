@@ -17,6 +17,11 @@ Started with the invocation of [Sahanavavathu](https://youtu.be/OUu1uxzvkgc?t=48
 
 You can fork the template repo [here](https://github.com/gvp1923/visual-presentation) for visual presentation.  
 Try playing with it and experiment to bring your ideas to animate on the screen.  
+---
+
+A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
+
+How to [write a readme](https://www.makeareadme.com/)?
 
 ---
 
