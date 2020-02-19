@@ -25,7 +25,7 @@ Started with the invocation of [Sahanavavathu](https://youtu.be/OUu1uxzvkgc?t=48
 
 #### Story: Parrots Training Retold
 
-<object data="parrots-training-retold.pdf" type="application/pdf" width="700px" height="700px">
+<object data="parrots-training-retold.pdf" type="application/pdf" width="100%" height="700px">
     <embed src="parrots-training-retold.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="parrots-training-retold.pdf">Download PDF</a>.</p>
     </embed>
