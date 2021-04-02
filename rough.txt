@@ -3,3 +3,64 @@ Create all the fields details.
 What each field cutting edge stuff they have?
 
 Share the videos which motivate them.
+
+---
+
+Nice one to read.
+https://www.junglecoder.com/blog/idea-chain-themes
+
+---
+
+Share with them the list of students who have already done.
+
+---
+
+Link to share with students:
+https://leetcode.com/discuss/interview-experience/508979/nda-google-l3-bangalore-feb-2020-offer
+
+---
+
+Students...
+
+
+See how some interesting chrome extentions can be created by students
+
+ask them to install inmotion.app
+
+-----
+Link to students and me to practice
+
+https://alexanderell.is/posts/trust-in-your-unconscious/
+
+----
+https://www.youtube.com/watch?v=NV3sBlRgzTI
+
+Nice video to understand and share.
+
+-----
+
+https://codeyarns.github.io/tech/2019-09-08-how-to-host-website-using-github-pages.html
+
+For students
+
+-----
+
+These would be good
+https://codeyarns.github.io/tech/2019-09-08-how-to-set-domain-for-github-website.html
+
+----
+
+https://codeyarns.github.io/tech/2019-08-27-how-to-create-new-github-repo-from-shell.html
+
+Very nice, method to do quick ways.
+
+----
+
+Nice game to show and the amount of source code involved in it.
+
+https://casual-effects.com/codeheart/examples/paddle/play.html
+
+TODO: Create a template repo for them to clone and try to change the JS code, and see what happens with that...
+
+
+===STUDENTS====

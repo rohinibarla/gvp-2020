@@ -52,3 +52,15 @@ You can download
 Closed with the invocation of Asathoma sadhgamaya...
 
 ---
+
+---- 
+Share 
+History of computing.
+Comperssion
+image format
+images in github
+
+Tasks:
+pull request
+education 
+
